@@ -17,12 +17,26 @@ Contribuí al proyecto [`Neural-Network-Tuning-Proyects`](https://github.com/nji
 
 ---
 
-## 🚀 Estoy aprendiendo
+## 🗂️ Proyectos destacados
 
-- Python para ciencia de datos y automatización
-- Git y GitHub para control de versiones y colaboración
-- Visual Studio Code como entorno principal
+🔹 [`bigquery_bitcoin-`](https://github.com/Santiagobc53/bigquery_bitcoin-)  
+Consultas reales en Google BigQuery usando datos de transacciones de Bitcoin. Incluye primeros análisis y estructura de datos SQL.
+
+🔹 [`mi-primer_python-`](https://github.com/Santiagobc53/mi-primer_python-)  
+Scripts de aprendizaje de Python: visualización de datos con Matplotlib y Plotly, estructuras básicas, automatización.
+
+🔹 [`mi-proyecto-web`](https://github.com/Santiagobc53/mi-proyecto-web)  
+Primer sitio web creado con HTML y CSS. Contiene diseño responsivo, formularios, y estructura clara de navegación.
+
+🔹 [`Python-Coursera-University-of-Michigan-`](https://github.com/Santiagobc53/Python-Coursera-University-of-Michigan-)  
+Ejercicios prácticos del curso de Python de la Universidad de Míchigan. Incluye archivos `.py` bien comentados y estructurados.
 
 ---
 
-📫 Puedes contactarme en futuras versiones de este perfil.
+## 🚀 Actualmente aprendiendo
+
+- Python para ciencia de datos
+- Automatización con scripts
+- Git y GitHub
+- Jupyter Notebook
+
