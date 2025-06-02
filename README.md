@@ -8,10 +8,10 @@ Tecnólogo Industrial en transición profesional hacia la tecnología. Me apasio
 
 Contribuí al proyecto [`Neural-Network-Tuning-Proyects`](https://github.com/njimenez92/Neural-Network-Tuning-Proyects) mejorando un notebook de tuning de redes neuronales con Keras y GridSearchCV.
 
-- Añadí una introducción en Markdown explicando el objetivo del notebook
-- Organicé y documenté código base en Python
-- Agregué un nuevo notebook funcional y estructurado
-- Creé mi primer Pull Request real
+- Añadí una introducción en Markdown explicando el objetivo del notebook  
+- Organicé y documenté código base en Python  
+- Agregué un nuevo notebook funcional y estructurado  
+- Creé mi primer Pull Request real  
 
 🔗 Pull Request: [#1 en el repositorio original](https://github.com/njimenez92/Neural-Network-Tuning-Proyects/pull/1)
 
@@ -33,10 +33,36 @@ Ejercicios prácticos del curso de Python de la Universidad de Míchigan. Incluy
 
 ---
 
-## 🚀 Actualmente aprendiendo
+## 🧰 Tecnologías y herramientas que uso
 
-- Python para ciencia de datos
-- Automatización con scripts
-- Git y GitHub
-- Jupyter Notebook
+- **Python** (pandas, matplotlib, plotly, scikit-learn)
+- **Jupyter Notebook** para análisis y visualización
+- **Git & GitHub** para control de versiones y colaboración
+- **Visual Studio Code** como entorno principal
+- **Google BigQuery** para consultas sobre grandes volúmenes de datos
+
+---
+
+## 📚 Certificaciones
+
+- 🎓 Soporte de Tecnologías de la Información – Google / Coursera  
+  *(Redes, sistemas operativos, línea de comandos, atención técnica al usuario)*
+
+- 🎓 Python for Everybody – University of Michigan / Coursera  
+  *(Fundamentos de programación, estructuras de datos, archivos y visualización)*
+
+---
+
+## 💡 Sobre mí
+
+Soy Tecnólogo Industrial en transición hacia la tecnología.  
+Me destaco por mi disciplina, capacidad de análisis y enfoque práctico.  
+Estoy desarrollando proyectos propios y contribuyendo a proyectos open source reales.
+
+---
+
+📬 Puedes encontrarme también en:  
+🔗 [LinkedIn](https://www.linkedin.com/in/santiagobc53)  
+🔗 [GitHub](https://github.com/Santiagobc53)
+
 
